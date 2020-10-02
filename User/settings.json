@@ -1,0 +1,15 @@
+{ 
+
+    "editor.fontSize": 26, 
+    
+    "workbench.colorTheme": "Quiet Light", 
+    
+    /**Wrap line settings for text font 26**/ 
+    
+    "editor.wordWrap": "wordWrapColumn", 
+    
+    "editor.wrappingIndent": "same", 
+    
+    "editor.wordWrapColumn": 65,
+    
+    } 

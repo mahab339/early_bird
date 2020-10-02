@@ -1,0 +1,9 @@
+[2020-10-02 14:38:29.707] [sharedprocess] [info] main {"machineId":"8b294878ceaa65a1ef8fff906ec54756f043eeb7270b51d744e831c53818ba11","windowId":2}
+[2020-10-02 14:38:29.795] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/usr/lib/python3.7/site-packages/odoo/addons/early_bird/User/snippets'
+[2020-10-02 14:38:37.294] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-10-02 14:39:08.019] [sharedprocess] [info] Downloaded extension: ms-python.python /usr/lib/python3.7/site-packages/odoo/addons/early_bird/CachedExtensionVSIXs/ms-python.python-2020.9.112786
+[2020-10-02 14:39:09.737] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-10-02 14:39:12.861] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-python.python-2020.9.112786: ms-python.python
+[2020-10-02 14:39:12.861] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.python-2020.9.112786
+[2020-10-02 14:39:12.869] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-10-02 14:39:13.019] [sharedprocess] [info] Extensions installed successfully: ms-python.python

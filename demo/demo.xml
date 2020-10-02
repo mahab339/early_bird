@@ -1,0 +1,22 @@
+<odoo>
+    <data>
+          <record id="Attendance-0" model="early_bird.attendance">
+            <field name="user_id">0</field>
+            <field name="arrival" eval="datetime.now()"/>
+            <field name="leave" eval="datetime.now()"/>
+          </record>
+
+          <record id="Attendance-0" model="early_bird.attendance">
+            <field name="user_id">0</field>
+            <field name="arrival" eval="datetime.now()"/>
+            <field name="leave" eval="datetime.now()"/>
+          </record>
+
+          <record id="Attendance-0" model="early_bird.attendance">
+            <field name="user_id">0</field>
+            <field name="arrival" eval="datetime.now()"/>
+            <field name="leave" eval="datetime.now()"/>
+          </record>
+
+    </data>
+</odoo>
